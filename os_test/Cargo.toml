@@ -1,0 +1,6 @@
+[package]
+name = "os_test"
+version = "0.1.0"
+authors = ["Angelo Ribeiro <aribeironovaes@gmail.com>"]
+
+[dependencies]
